@@ -1,0 +1,1 @@
+Often there is a file called solution.txt which contains some information on how the exercise was solved.
